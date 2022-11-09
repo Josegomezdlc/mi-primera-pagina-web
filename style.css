@@ -1,1 +1,19 @@
+h1{text-align: center;}
+a{text-align: left;}
+h3{color:rgb(17, 0, 255); text-decoration: underline;}
+a:link { color:rgb(113, 68, 236); text-decoration: none }
+a:visited { color: red;}
+a:hover { color: rgb(1, 2, 116); font-weight: bold }
+a:active { color: pink; }
+h4{color:rgb(75, 75, 75)}
+p{font-family:"Times New Roman",serif}
+h1{font-family:Arial,"sans-serif"}
+h2{font-size: 200%;}
+.clase1 {
+    color: lightgreen;
+}
 
+.clase2 {
+    color: black;
+}
+/*Aquí finaliza el archivo de estilos css*/

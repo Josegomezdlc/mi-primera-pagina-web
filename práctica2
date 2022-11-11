@@ -1,15 +1,24 @@
-<html>
-<head lang="es-ES">
-<title>Ejemplo de etiqueta OL</title></head>
-<body>
-
-<h1>Instrucciones</h1>
-
+<!doctype html>
+<html lang="es-ES">
+ <head>
+  <title>
+    Mezcla de listas
+  </title>
+ </head>
+ <body>
+<h1>
 <ol>
-  <li>Enchufar correctamente</li>
-  <li>Comprobar conexiones</li>
-  <li>Encender el aparato</li>
+  <li>Comenzamos preparando la crema pastelera. Para ello, en una taza, diluimos la fécula de maíz con 2 o 3 cucharas de leche y reservamos.</li>
+  <li>En un cazo calentamos el resto de la leche con las pieles de naranja y limón y el palito de canela. Cuando la leche comience a hervir, apagamos el fuego y dejamos que repose 10 minutos.
+</li>
+  <li>En un bol batimos las yemas de los huevos con el azúcar y añadimos la leche colándola. Solo vamos a emplear las yemas, aunque también se puede hacer con 2 huevos enteros y 2 yemas. En mi caso las claras las empleo luego en una tortilla francesa para el desayuno o la cena.
+</li>
+  <li>En esta parte de la preparación, cuando unimos todos los ingredientes , debemos hacerla sin parar de remover ya que la leche estará aún algo caliente y no debemos dejar que el huevo llegue a cuajarse.
+</li>
+  <li>Volvemos a verter la mezcla en el cazo y lo ponemos al fuego. Añadimos la fécula de maíz que tenemos reservada y diluida y, sin parar de remover, cocinamos la crema hasta que haya espesado.
+</li>
+  <li>Reservamos en la nevera durante por lo menos una hora con un poco de papel film encima para que no se forme costra en la superficie. También podéis ahorrar tiempo si hacemos la crema pastelera en el microondas, tenéis la receta en el blog.
+</li>
 </ol>
-
 </body>
 </html>
